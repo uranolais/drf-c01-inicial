@@ -11,4 +11,3 @@ class CursoSerializer(serializers.ModelSerializer):
         model = Curso
         fields = '__all__'
 
-        
